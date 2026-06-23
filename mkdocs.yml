@@ -7,28 +7,28 @@ repo_name: masandeep
 edit_uri: ""
 theme:
   name: material
-<!--  # Navigation bar style: can be 'primary' (blue), 'dark', or 'light'
-  nav_style: primary
+ # Navigation bar style: can be 'primary' (blue), 'dark', or 'light'
+  # nav_style: primary
   # Default color mode: 'light', 'dark', or 'auto' (tries to match system preference)
-  color_mode: light
+  # color_mode: light
   # Allow user to toggle color mode via a UI switch: true or false
-  user_color_mode_toggle: true
+  # user_color_mode_toggle: true
   # Enable/disable code highlighting with highlight.js (default is true)
-  highlightjs: true
+  # highlightjs: true
   # Style for highlight.js in light mode (see highlight.js docs for style names)
-  hljs_style: github
+  # hljs_style: github
   # Style for highlight.js in dark mode
-  hljs_style_dark: github-dark
+  # hljs_style_dark: github-dark
   # Add support for more programming languages in highlight.js if they aren't common
-  hljs_languages:
-    - yaml
-    - rust
-    - go
+  # hljs_languages:
+    # - yaml
+    # - rust
+    # - go
   # Google Analytics (GA4) configuration
-  analytics:
-    gtag: 'G-YOURTRACKINGID' # Replace with your Google Analytics 4 Measurement ID
+  # analytics:
+    # gtag: 'G-YOURTRACKINGID' # Replace with your Google Analytics 4 Measurement ID
   # Maximum navigation depth to display in the sidebar
-  navigation_depth: 2
+  # navigation_depth: 2
   # Locale for theme translations (e.g., for "Next", "Previous" buttons)
   # locale: 'en' # 'en' is English, 'fr' for French, etc. Requires mkdocs[i18n] -->
     palette: 
