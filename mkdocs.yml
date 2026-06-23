@@ -80,6 +80,7 @@ plugins:
   - search
   - tags
 nav: 
+  - Home : index.md
   - About : about/index.md
   - Portfolio :
     - API reference : 
