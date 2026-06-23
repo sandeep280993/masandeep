@@ -7,7 +7,7 @@ repo_name: masandeep
 edit_uri: ""
 theme:
   name: material
-  # Navigation bar style: can be 'primary' (blue), 'dark', or 'light'
+<!--  # Navigation bar style: can be 'primary' (blue), 'dark', or 'light'
   nav_style: primary
   # Default color mode: 'light', 'dark', or 'auto' (tries to match system preference)
   color_mode: light
@@ -30,8 +30,8 @@ theme:
   # Maximum navigation depth to display in the sidebar
   navigation_depth: 2
   # Locale for theme translations (e.g., for "Next", "Previous" buttons)
-  # locale: 'en' # 'en' is English, 'fr' for French, etc. Requires mkdocs[i18n]
-  palette: 
+  # locale: 'en' # 'en' is English, 'fr' for French, etc. Requires mkdocs[i18n] -->
+    palette: 
 
     # Palette toggle for light mode
     - scheme: default
