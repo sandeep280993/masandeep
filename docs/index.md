@@ -29,7 +29,7 @@ I welcome you to my personal github site where you can learn about me and the te
 
 This website is built with **Material for MkDocs**.
 
-This website has the following pages:
+This website has the following pages: [Home](docs/index.md)
 
 <table>
   <tr>
