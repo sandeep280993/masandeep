@@ -4,7 +4,7 @@ Markdown support WYSIWYG. But using a free WYSIWYG previewers needs internet. Be
 
 I used Google Gemini to create an offline WYSIWYG previewer. This offline previewer displays content in the three-column layout.
 
-![Gemini](images/gemini-previewer.png)
+![Gemini](../assets/images/gemini-previewer.png)
 
 |Callout| Column | Functionality |
 |-------|--------| --------------|
