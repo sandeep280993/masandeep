@@ -1,10 +1,29 @@
 # Offline Gemini-style Markdown Previewer
 
-Google gemini is a great AI chatbot tool. I interact with the chatbot whenever I have some queries.
-I had a issue with the chatbot responses. It was that I had to use the scroller everytime, I wanted to check the previous query in the chat.
-To reduce frequent scrolling, I decided to have an offline chat window. I asked gemini to build me one. And I got this one.
+Markdown support WYSIWYG. But using a free WYSIWYG previewers needs internet. Because the good and free WYSIWYG previewers that I worked on were always web-based previewers. So, I wanted to build an offline markdown previewer. 
 
-I tried a python based markdown previewer
+I used Google Gemini to create an offline WYSIWYG previewer. This offline previewer displays content in the three-column layout.
+
+![Gemini](assets/images/gemini-previewer.png)
+
+|Callout| Column | Functionality |
+|-------|--------| --------------|
+|1 | Left | Add file icon to add the markdown files from your system. ` LOADED FILES ` section to list all the files added to the previewer.|
+|2 | Middle | Actual content in Gemini-style conversational UI|
+|3 | Right | List of H1 titles|
+
+!!! note 
+You can add up to five markdown files and preview them in a Gemini-style UI and switch between the files without the fear of losing them.
+
+!!! note
+Memory is not static for this previewer. Everytime you close the window, added files are removed.
+
+
+<!-- Google gemini is a great AI chatbot tool. I interact with the chatbot whenever I have some queries.
+I had a issue with the chatbot responses. It was that I had to use the scroller everytime, I wanted to check the previous query in the chat.
+To reduce frequent scrolling, I decided to have an offline chat window. I asked gemini to build me one. And I got this one. -->
+
+<!-- I tried a python based markdown previewer
 
 ## Pre-requisites
 
@@ -129,3 +148,4 @@ python server.py
 
 
 Go with **Fix 1** if you want a 5-second fix, or **Fix 2** if keeping the `.md` extension is important for your workflow. Which route do you prefer?
+-->
