@@ -28,32 +28,35 @@ hide:
 
         </div>
 
-        <h1 class="figma-profile-name">Jordan Ellis</h1>
-        <p class="figma-profile-headline">Senior Technical Writer · API & Developer Docs</p>
-        <p class="figma-profile-location">San Francisco, CA</p>
+        <h1 class="figma-profile-name">Sandeep M A</h1>
+        <p class="figma-profile-headline">Senior Technical Writer · API & Hardware Docs · AI-assisted Documentation · Docs-as-Code · DITA</p>
+        <p class="figma-profile-location">Chennai, India</p>
 
         <p class="figma-profile-bio">
-          I help engineering teams turn complex systems into documentation developers actually want to read.
+        I translate highly technical engineering language into clear and concise documentation that results in faster adoption of the products by the customers.
+           Using DITA-based XML authoring and Git-based Docs-as-code workflows, I deliver user-focused and API documentation for complex hardware, software and REST APIs.
+         
+         <!-- I help engineering teams turn complex systems into documentation developers actually want to read.
           Specializing in API references, SDK guides, and developer onboarding experiences — from first draft
-          through docs-as-code pipelines and information architecture reviews.
+          through docs-as-code pipelines and information architecture reviews. -->
         </p>
 
 <!-- Social Links -->
 <div class="social-links-container">
  
-   <a href="YOUR_LINKEDIN_URL" class="social-link" target="_blank" rel="noopener noreferrer">
+   <a href="https://www.linkedin.com/in/sandeepma/" class="social-link" target="_blank" rel="noopener noreferrer">
     <span class="social-icon">👔</span> <span class="social-label">LinkedIn</span>
   </a>
 
-  <a href="YOUR_GITHUB_URL" class="social-link" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/sandeep280993/sandeep280993" class="social-link" target="_blank" rel="noopener noreferrer">
     <span class="social-icon">💻</span> 
     <span class="social-label">GitHub</span>
   </a>
 
-  <a href="YOUR_TWITTER_URL" class="social-link" target="_blank" rel="noopener noreferrer">
+<!--  <a href="YOUR_TWITTER_URL" class="social-link" target="_blank" rel="noopener noreferrer">
     <span class="social-icon">🐦</span> 
     <span class="social-label">Twitter</span>
-  </a>
+  </a> -->
 
 </div>
       </div>
@@ -80,13 +83,13 @@ hide:
   </div>
 
   <div class="figma-stat-card">
-    <div class="figma-stat-number">12</div>
-    <div class="figma-stat-label">API References</div>
+    <div class="figma-stat-number">200+</div>
+    <div class="figma-stat-label">API Endpointed Documentated</div>
   </div>
 
   <div class="figma-stat-card">
-    <div class="figma-stat-number">100%</div>
-    <div class="figma-stat-label">Test Coverage</div>
+    <div class="figma-stat-number">4</div>
+    <div class="figma-stat-label">Video Content</div>
   </div>
 
 </div>
@@ -100,12 +103,17 @@ hide:
   <div class="figma-skills-wrap"> <!--Skill wrap -->
     <span class="figma-skill-pill">API Documentation</span> <!--Skill pill -->
     <span class="figma-skill-pill">Docs-as-Code</span>
-    <span class="figma-skill-pill">Markdown / MDX</span>
+    <span class="figma-skill-pill">Markdown / AsciiDoc</span>
+      <span class="figma-skill-pill">VS Code</span>
+    <span class="figma-skill-pill">AsciiDoc</span>
     <span class="figma-skill-pill">Git & GitHub Actions</span>
-    <span class="figma-skill-pill">Information Architecture</span>
-    <span class="figma-skill-pill">CI/CD Pipelines</span>
-    <span class="figma-skill-pill">UX Writing</span>
+    <span class="figma-skill-pill">Postman</span>
     <span class="figma-skill-pill">OpenAPI / Swagger</span>
+      <span class="figma-skill-pill">DITA / oXygen XML Author</span>
+      <span class="figma-skill-pill">AI-enabled Content Workflow</span>
+    <span class="figma-skill-pill">Information Architecture</span>
+    <span class="figma-skill-pill">Knowledge Management/span>
+      <span class="figma-skill-pill">Jira & Confluence</span>
   </div>
 
 </div>
@@ -123,12 +131,15 @@ hide:
       <div class="figma-timeline-dot"></div>
       <div class="figma-job-content">
         <div class="figma-job-header">
-          <span class="figma-job-role">Senior Technical Writer</span>
-          <span class="figma-job-company">Nexus Inc.</span>
+          <span class="figma-job-role">Technical Writer</span>
+          <span class="figma-job-company">Cisco Systems</span>
           <span class="figma-job-period">2022 – Present</span>
         </div>
         <p class="figma-job-desc">
-          Owns the entire developer documentation surface — REST API reference, four SDK guides, onboarding tutorials, and the docs-as-code pipeline built on GitHub Actions.
+          Driving end-to-end technical documentation initiatives for Optical Networking, DWDM, Network Planner, and SDN product portfolios, including customer-facing hardware, software, and REST API documentation across global engineering programs.
+          <br>Redesigned the documentation lifecycle for an Optical SDN program, aligning content drafts with Agile sprints, reducing engineering review effort by 15%.
+          <br>
+          Established a centralized knowledge management repository, authoring 50+ process documentation for internal teams. 
         </p>
       </div>
     </div>
@@ -138,12 +149,14 @@ hide:
       <div class="figma-timeline-dot"></div>
       <div class="figma-job-content">
         <div class="figma-job-header">
-          <span class="figma-job-role">Technical Writer II</span>
-          <span class="figma-job-company">Stripe</span>
-          <span class="figma-job-period">2019 – 2022</span>
+          <span class="figma-job-role">Technical Writer</span>
+          <span class="figma-job-company">Wipro Limited</span>
+          <span class="figma-job-period">2018 – 2021</span>
         </div>
         <p class="figma-job-desc">
-          Wrote and maintained payment API reference docs, integration guides for Checkout and Billing, and internal style guides adopted across the docs team.
+          Developed and managed customer-facing technical documentation, including Online Help and PDF-based deliverables, by translating complex UI, product, and hardware specifications into clear, user-centric content using the DITA framework.
+          <br>
+          Wrote large user manual for networking hardware platform, engaging cross-functional global SMEs, and delivering accurate, structured content for the new product launch.
         </p>
       </div>
     </div>
@@ -153,12 +166,12 @@ hide:
       <div class="figma-timeline-dot"></div>
       <div class="figma-job-content">
         <div class="figma-job-header">
-          <span class="figma-job-role">Technical Writer</span>
-          <span class="figma-job-company">Twilio</span>
-          <span class="figma-job-period">2016 – 2019</span>
+          <span class="figma-job-role">Content Writer</span>
+          <span class="figma-job-company">CES</span>
+          <span class="figma-job-period">2015 – 2018</span>
         </div>
         <p class="figma-job-desc">
-          Documented the Messaging, Voice, and Video APIs. Collaborated directly with SDK engineers to ship consistent reference docs across six language libraries.
+          Created SEO content for e-commerce companies based in North America, maintaining tracker for each project, content data analyzing, adding HTML tags and generating meta descriptions.
         </p>
       </div>
     </div>
