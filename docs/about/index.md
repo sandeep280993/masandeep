@@ -23,7 +23,7 @@ hide:
           </div>
    
           <a href="mailto:sandeep.adithan@proton.me" class="figma-touch-btn">
-            Get in touch
+            📧 Get in touch
           </a>
 
         </div>
