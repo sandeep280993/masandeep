@@ -97,6 +97,11 @@ hide:
     <div class="figma-stat-label">Video Content</div>
   </div>
 
+<div class="figma-stat-card">
+    <div class="figma-stat-number">100+</div>
+    <div class="figma-stat-label">KB articles & SOPs writtern</div>
+  </div>
+  
 </div>
 
 <!-- Skills Card -->
@@ -110,7 +115,8 @@ hide:
     <span class="figma-skill-pill">Docs-as-Code</span>
     <span class="figma-skill-pill">Markdown / AsciiDoc</span>
       <span class="figma-skill-pill">VS Code</span>
-    <span class="figma-skill-pill">AsciiDoc</span>
+    <span class="figma-skill-pill">Hardware Documentation</span>
+    <span class="figma-skill-pill">Firmware / Software Documentation</span>
     <span class="figma-skill-pill">Git & GitHub Actions</span>
     <span class="figma-skill-pill">Postman</span>
     <span class="figma-skill-pill">OpenAPI / Swagger</span>
