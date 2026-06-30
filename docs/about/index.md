@@ -78,6 +78,11 @@ hide:
   </div>
 
   <div class="figma-stat-card">
+    <div class="figma-stat-number">20+</div>
+    <div class="figma-stat-label">Products</div>
+  </div>
+  
+  <div class="figma-stat-card">
     <div class="figma-stat-number">40+</div>
     <div class="figma-stat-label">Guides Written</div>
   </div>
@@ -112,7 +117,7 @@ hide:
       <span class="figma-skill-pill">DITA / oXygen XML Author</span>
       <span class="figma-skill-pill">AI-enabled Content Workflow</span>
     <span class="figma-skill-pill">Information Architecture</span>
-    <span class="figma-skill-pill">Knowledge Management/span>
+    <span class="figma-skill-pill">Knowledge Management</span>
       <span class="figma-skill-pill">Jira & Confluence</span>
   </div>
 
