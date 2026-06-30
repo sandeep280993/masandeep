@@ -13,19 +13,16 @@ I used Google Gemini to create an offline WYSIWYG previewer. This offline previe
 |3 | Right | List of H1 titles|
 
 !!! note
-
-You can add up to five markdown files and preview them in a Gemini-style UI and switch between the files without the fear of losing them.
+    You can add up to five markdown files and preview them in a Gemini-style UI and switch between the files without the fear of losing them.
 
 !!! note
-
-Memory is not static for this previewer. Everytime you close the window, added files are removed.
+    Memory is not static for this previewer. Everytime you close the window, added files are removed.
 
 1. Copy the HTML code and save it in your local system.
 2. Open the saved HTML file.
 3. In the left panel, click the 📁 icon and add your markdown files.
    !!! Success
-
-   The markdown output appears in a Gemini-style UI.
+       The markdown output appears in a Gemini-style UI.
    
 ```html
 <!DOCTYPE html>
