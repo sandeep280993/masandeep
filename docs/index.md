@@ -33,11 +33,11 @@ This website has the following pages: <!-- [Home](docs/index.md) -->
 
 <table>
   <tr>
-    <td><a href="index.md">Home</a></td>
+    <td><a href="index">Home</a></td>
     <td>Landing page of my website.</td>
   </tr>
   <tr>
-    <td><a href="about/index.md">About Me</a></td>
+    <td><a href="about/index">About Me</a></td>
     <td>Snapshot of my technical writing skills, career states and the highlights of my technical writing roles.</td>
   </tr>
   <tr>
