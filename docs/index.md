@@ -41,7 +41,7 @@ This website has the following pages: <!-- [Home](docs/index.md) -->
     <td>Snapshot of my technical writing skills, career states and the highlights of my technical writing roles.</td>
   </tr>
   <tr>
-    <td><a href="Portfolio/mock-api-doc.md">Portfolio</a></td>
+    <td><a href="Portfolio/mock-api-doc">Portfolio</a></td>
     <td>Technical writing samples for API reference.</td>
   </tr>
     <tr>
