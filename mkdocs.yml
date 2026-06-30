@@ -67,10 +67,9 @@ nav:
       - Update card : portfolio/update.md
       - Retrieve card : portfolio/retrieve.md
       - Retrieve all cards : portfolio/retrieve-all.md
-    - CLI reference :
-      - CLI : sandeep280993/sample_docs/command_messages.md
+ #   - CLI reference :
+  #    - CLI : sandeep280993/sample_docs/command_messages.md
   - AI projects : 
     - AI projects: ai-projects/index.md
-    - Ai-projects: ai-projects/ai-project.md
     - Offline markdown previewer: ai-projects/Gemini-style-mdpreview.md
     - Video to doc convertoer: ai-projects/vdo-to-doc-converter.md
