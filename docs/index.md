@@ -23,30 +23,30 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 # M A Sandeep
 
-## Hello, I am Sandeep Mani Adithan
+## Hello, I am Sandeep Mani Adithan.
 
-I welcome you to my personal github site where you can learn about me and the technical writing themes I am interested in.
+I welcome you to my personal github site where you can learn about me and all the technical writing themes that I am interested in.
 
 This website is built with **Material for MkDocs**.
 
-This website has the following pages: [Home](docs/index.md)
+This website has the following pages: <!-- [Home](docs/index.md) -->
 
 <table>
   <tr>
-    <td>[Home](docs/index.md)</td>
-    <td>The landing page of my website.</td>
+    <td><a href="index.md">Home</a></td>
+    <td>Landing page of my website.</td>
   </tr>
   <tr>
-    <td>About Me</td>
-    <td>This page includes a snapshot of my technical writing skills, career states and the highlights of my technical writing roles</td>
+    <td><a href="about/index.md">About Me</a></td>
+    <td>Snapshot of my technical writing skills, career states and the highlights of my technical writing roles.</td>
   </tr>
   <tr>
-    <td>Portfolio</td>
-    <td>This page includes my technical writing samples for API reference and CLI reference guides</td>
+    <td><a href="Portfolio/mock-api-doc.md">Portfolio</a></td>
+    <td>Technical writing samples for API reference.</td>
   </tr>
     <tr>
-        <td>AI Project</td>
-        <td>This page includes my AI side projects</td>
+        <td><a href="ai-projects/index">AI Project</td>
+        <td>My AI side projects</td>
     </tr>
 </table>
 
