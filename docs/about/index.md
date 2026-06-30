@@ -99,7 +99,7 @@ hide:
 
 <div class="figma-stat-card">
     <div class="figma-stat-number">100+</div>
-    <div class="figma-stat-label">KB articles & SOPs writtern</div>
+    <div class="figma-stat-label">KB Articles & SOPs Written</div>
   </div>
   
 </div>
